@@ -59,6 +59,11 @@ body {
     background: none;
   }
 
+  .img3 button {
+    border: none;
+    background: none;
+  }
+
   footer {
     background-color: black;
     padding: 5px;
@@ -102,6 +107,10 @@ body {
 
 .img2 {
     text-align: center;
+}
+
+.img3 {
+  text-align: center;
 }
 
 
